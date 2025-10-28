@@ -1,7 +1,7 @@
 # Ai-Apu-Mita
 ## Main Image
 <p align="center">
-  <img height="300" src="[images/images.jpeg](https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg)">
+  <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
 </p>
 
 ```
