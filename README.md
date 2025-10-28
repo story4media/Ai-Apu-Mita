@@ -6,7 +6,7 @@
 
 <code>Mita and Apu are in a beautiful bed room. Apu is wearing a white shirt and black pants. Mita is wearing a red saree, with a tight pink blouse and pink petticoat visible through the saree. </code>
 
-Mita gives Apu water to drink. 
+```Mita gives Apu water to drink. ```
 
 Apu is stroking Mita's head.
 
