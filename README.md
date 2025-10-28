@@ -4,28 +4,41 @@
 I want to make a series of pictures. Can you help me?
 ```
 
-```html
+```
 Images faces all time remain the same (Gender and age, Hair style and color, Eye color and shape, Cinematic photography, 8k, photorealistic)
 
-<code>Mita and Apu are in a beautiful bed room. Apu is wearing a white shirt and black pants. Mita is wearing a red saree, with a tight pink blouse and pink petticoat visible through the saree. </code>
-
-```Mita gives Apu water to drink. ```
-
+```
+```
+Mita and Apu are in a beautiful bed room. Apu is wearing a white shirt and black pants. Mita is wearing a red saree, with a tight pink blouse and pink petticoat visible through the saree.
+```
+```
+Mita gives Apu water to drink
+```
+```
 Apu is stroking Mita's head.
-
+```
+```
 He is smelling her hair.
-
+```
+```
 He hugged Mita from behind, his hands on Mita's chest. / Apu stood with her chest pressed against Mita's back and hugged her from behind.
-
+```
+```
 Apu lifted Mita into his lap. 
-
+```
+```
 Mita kissed Apu on the face.
+```
 
+```
 Mita inserted her tongue inside Apu's cheek.
-
-Apu took Mita off his lap. 
-
+```
+```
+Apu took Mita off his lap.
+```
+```
 Apu hugged Mita from the front with both hands strongly, Mita also hugged Apu with both hands strongly.
+```
 
 Apu and Mita kiss each other.
 
