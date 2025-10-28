@@ -3,7 +3,8 @@
 ```html
 I want to make a series of pictures. Can you help me?```
 
-> Images faces all time remain the same (Gender and age, Hair style and color, Eye color and shape, Cinematic photography, 8k, photorealistic)
+```html
+Images faces all time remain the same (Gender and age, Hair style and color, Eye color and shape, Cinematic photography, 8k, photorealistic)
 
 <code>Mita and Apu are in a beautiful bed room. Apu is wearing a white shirt and black pants. Mita is wearing a red saree, with a tight pink blouse and pink petticoat visible through the saree. </code>
 
