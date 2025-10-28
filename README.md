@@ -1,6 +1,7 @@
 # Ai-Apu-Mita
 
-<pre>I want to make a series of pictures. Can you help me?</pre>
+```html
+I want to make a series of pictures. Can you help me?
 
 > Images faces all time remain the same (Gender and age, Hair style and color, Eye color and shape, Cinematic photography, 8k, photorealistic)
 
